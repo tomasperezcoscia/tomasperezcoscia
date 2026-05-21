@@ -64,5 +64,5 @@ SQL Server query and indexing optimization for heavy reporting workloads, plus P
 
 ### 📫 Get in touch
 
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/perezcosciatomas)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/tomas-perez-coscia)
 - Email: perezcosciatomas@gmail.com
