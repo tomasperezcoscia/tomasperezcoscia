@@ -53,15 +53,6 @@ SQL Server query and indexing optimization for heavy reporting workloads, plus P
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasperezcoscia&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasperezcoscia&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
 ### 📫 Get in touch
 
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/tomas-perez-coscia)
